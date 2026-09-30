@@ -44,7 +44,6 @@ Recommendations were structured using the **SMART framework**.
 ### 4. AI-Powered Collections Strategy
 Designed a high-level AI-powered collections system:
 
-```text
 Customer Data
       ↓
 Risk Analysis
@@ -61,25 +60,3 @@ Outcome Tracking
       ↓
 Improvement
 
-🛠️ Tools & Skills
-
-## 🛠️ Tools
-
-Python | Pandas | NumPy | Matplotlib | Seaborn | Excel | PowerPoint | Generative AI
-
-## 💡 Skills
-
-EDA | Data Cleaning | Data Quality Analysis | Data Visualization | Business Analysis | Predictive Analytics | GenAI | Agentic AI | Responsible AI
-
-## 📂 Repository Contents
-
-- `Delinquency_prediction_dataset.xlsx` – Dataset used for analysis
-- `Exploratory Data Analysis Summary Report.pdf` – EDA report
-- `Predictive Model Plan.pdf` – Predictive modeling approach
-- `Business Summary Report.pdf` – Business insights and recommendations
-- `AI-Powered Collections Strategy (ppt).pdf` – Final presentation
-- `README.md` – Project documentation
-
-## 🌱 Key Learning
-
-This simulation helped me understand how data analysis can be connected with business decision-making, predictive analytics, GenAI, Agentic AI, and Responsible AI to address a real-world business problem.
